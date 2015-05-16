@@ -1,0 +1,9 @@
+E:\Monir\WindowsFormsDictionaryApp\WindowsFormsDictionaryApp\bin\Debug\WindowsFormsDictionaryApp.exe.config
+E:\Monir\WindowsFormsDictionaryApp\WindowsFormsDictionaryApp\bin\Debug\WindowsFormsDictionaryApp.exe
+E:\Monir\WindowsFormsDictionaryApp\WindowsFormsDictionaryApp\bin\Debug\WindowsFormsDictionaryApp.pdb
+E:\Monir\WindowsFormsDictionaryApp\WindowsFormsDictionaryApp\obj\Debug\WindowsFormsDictionaryApp.csprojResolveAssemblyReference.cache
+E:\Monir\WindowsFormsDictionaryApp\WindowsFormsDictionaryApp\obj\Debug\WindowsFormsDictionaryApp.Form1.resources
+E:\Monir\WindowsFormsDictionaryApp\WindowsFormsDictionaryApp\obj\Debug\WindowsFormsDictionaryApp.Properties.Resources.resources
+E:\Monir\WindowsFormsDictionaryApp\WindowsFormsDictionaryApp\obj\Debug\WindowsFormsDictionaryApp.csproj.GenerateResource.Cache
+E:\Monir\WindowsFormsDictionaryApp\WindowsFormsDictionaryApp\obj\Debug\WindowsFormsDictionaryApp.exe
+E:\Monir\WindowsFormsDictionaryApp\WindowsFormsDictionaryApp\obj\Debug\WindowsFormsDictionaryApp.pdb
